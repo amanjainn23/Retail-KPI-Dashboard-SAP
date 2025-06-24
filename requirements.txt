@@ -1,1 +1,7 @@
-SAP Project
+pandas
+sqlalchemy
+faker
+pytest
+streamlit
+plotly
+

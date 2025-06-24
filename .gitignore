@@ -1,0 +1,23 @@
+# Ignore OS files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.env
+venv/
+
+# Data folders
+data/raw/
+data/processed/
+
+# Tableau or output files
+*.twbx
+*.log
+
+
